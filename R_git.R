@@ -1,0 +1,5 @@
+## I am learning github
+
+x <- 1:1000
+
+x[1:10]
