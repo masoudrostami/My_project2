@@ -9,3 +9,13 @@ x <- rnorm(1000)
 y <- rnorm(1000)
 
 plot(x,y)
+
+harp=read.csv("harp.csv")
+harp
+
+ View(harp)
+
+ 
+ 
+ 
+  
